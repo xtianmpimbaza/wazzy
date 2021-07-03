@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Peer to Peer Lending Platform Powered by Stellar.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## For Africa by Africans...
+
+![](src/assets/cover.png)
+
+
+# Getting Started
+### `git clone git@github.com:xtianmpimbaza/wazzy.git`
 
 ## Available Scripts
 
